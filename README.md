@@ -50,6 +50,34 @@
 
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 2.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 2,340 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I Mostly Code in HCL** 
+
+```text
+HCL                      1 repo              █████████████████████████   100.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/IstvanCsVarga/IstvanCsVarga/main/assets/bar_graph.png)
+
+
+ Last Updated on 15/12/2023 08:51:09 UTC
 <!--END_SECTION:waka-->
 
 [website]: https://adityacprtm.dev
