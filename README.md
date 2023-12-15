@@ -1,18 +1,17 @@
+# Hi there, I'm Istvan! 👋
+
+- 🌱 I’m currently working as a **DevOps Engineer**
+- 👨‍💻 All of my projects are available at **[here][github]** or **[istvanv.dev][website]**
+- 📫 How to reach me **istvanv@istvanv.dev**
+- ⚡ Fun fact **keyboard enthusiast** 💘
+
+
 <a href="https://app.daily.dev/istvancsabavarga"><img src="https://github.com/IstvanCsVarga/IstvanCsVarga/blob/main/devcard.svg" width="400" alt="Istvan Csaba Varga's Dev Card"/></a>
-
-# Hi there, I'm Aditya! 👋
-
-- 🌱 I’m currently doing **DevOps** and **SRE**
-- 👨‍💻 All of my projects are available at **[here][github]** or **[adityacprtm.dev][website]**
-- 📝 I regulary write articles on **[my blog][blog]**
-- 📫 How to reach me **aditya@adityacprtm.dev**
-- 👻 **npx** adityacprtm
-- ⚡ Fun fact **pevita lovers** 💘
 
 ## 😎 Connect with me
 
-[![Website](https://img.shields.io/website?label=Adityacprtm.dev&style=for-the-badge&url=https%3A%2F%2Fadityacprtm.dev)][website]
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][twitter]
+[![Website](https://img.shields.io/website?label=Adityacprtm.dev&style=for-the-badge&url=https%3A%2F%2Fistvanv.dev)][website]
+[![X](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][X]
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)][facebook]
@@ -34,22 +33,20 @@
 | Service Mesh       | ![Istio](https://img.shields.io/badge/Istio-566aa5?style=for-the-badge&logo=istio&logoColor=white) ![Kuma](https://img.shields.io/badge/Kuma-290b53?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMTczLjE4IDExNzMuMTgiPjxkZWZzPjxzdHlsZT4uY2xzLTF7ZmlsbDojZmZmO30uY2xzLTJ7ZmlsbDpub25lO308L3N0eWxlPjwvZGVmcz48ZyBpZD0iTGF5ZXJfMiIgZGF0YS1uYW1lPSJMYXllciAyIj48ZyBpZD0iTGF5ZXJfMS0yIiBkYXRhLW5hbWU9IkxheWVyIDEtMiI+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNODg3LjYyLDQyMi41NGE2LjIxLDYuMjEsMCwwLDEsMS01LjljMjQuODUtMzEuMzcsNDcuNC02Ny40Niw0Ny40LTk1LjE0QzkzNiwyNjAsOTAwLjkxLDIxMCw4MjQuNTEsMjEwYy0zNy44NSwwLTY1LjYxLDEyLjMtODMuODYsMzIuMTFhNi4zOSw2LjM5LDAsMCwxLTYuNjgsMS44LDU3MC4yNiw1NzAuMjYsMCwwLDAtODkuMjQtMjEuMTIsNi4yNCw2LjI0LDAsMCwwLTcsNS4zNSw2LjE0LDYuMTQsMCwwLDAsLjE2LDIuNDVjNi4zMSwyMy42Niw0NC4yLDE3NCw3NC43MSwyODguNDQsMTguNDUsNjkuMjYtMjkuMzYsMTM3LjMtMTAxLDEzNy4wOUg1NjcuMTljLTcyLjQyLDAtMTE2LjM4LTY4LjI4LTk5LjY5LTEzNi4zNSwyOC4xNy0xMTUsNjYuNzYtMjY0LjE3LDczLTI4OC43N2E2LjE5LDYuMTksMCwwLDAtNC4zNy03LjU5LDYsNiwwLDAsMC0yLjM5LS4xNiw0ODYuNjksNDg2LjY5LDAsMCwwLTEwMy4zOCwyMy42Niw2LjM3LDYuMzcsMCwwLDEtNy0xLjkzYy0xOC4yNC0yMS40NS00Ni43LTM0Ljg2LTg2LjExLTM0Ljg2LTc2LjQsMC0xMTEuNSw0OS45MS0xMTEuNSwxMTEuNSwwLDMyLjI4LDMwLjY3LDc2LDU5Ljg3LDExMC4zMWE2LjM2LDYuMzYsMCwwLDEsMS4xNSw2LjA3bC00OS43LDE0NC4zNWExLjE0LDEuMTQsMCwwLDAsMCwuNDVjLTEuMzEsNS0yMC41MSw5MC4yMiwxMjUuMzIsMjI1Ljc5QzQwNiw4NDkuMjMsNTU4LDk5NS42Niw1ODUuMzUsMTAyMS44M2E2LjE2LDYuMTYsMCwwLDAsOC40OSwwYzI4LjA5LTI2LjEzLDE4NS43Ny0xNzIuNDgsMjI5LjY1LTIxMy4yNCwxNTcuNTUtMTQ2LjkzLDEyMC0yMjYuMjQsMTIwLTIyNi4yNFoiLz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik02MTkuMjMsNTYwLjUzSDU1OS44NWExNy44LDE3LjgsMCwwLDEtMTcuOC0xNy43OXYtLjA5bC03LjM4LTczLjExYTE3LjgsMTcuOCwwLDAsMSwxNy44LTE3LjhoNzMuODVhMTcuOCwxNy44LDAsMCwxLDE3Ljg0LDE3Ljc2djBsLTcuMDksNzMuMTFhMTcuOCwxNy44LDAsMCwxLTE3LjcyLDE3Ljg4WiIvPjxyZWN0IGNsYXNzPSJjbHMtMiIgd2lkdGg9IjExNzMuMTgiIGhlaWdodD0iMTE3My4xOCIvPjwvZz48L2c+PC9zdmc+)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Other              | ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
-## ✨ Card
-
-<details>
-  <summary> :zap: Expand me</summary>
-
-![Imgur](https://i.imgur.com/SC6Rt8F.jpg)
-
-</details>
 
 ## 🚀 Github Stats
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+<details>
+  <summary> :zap: Expand me</summary>
+
+![IstvanCsVarga's github stats](https://github-readme-stats.vercel.app/api?username=istvancsvarga&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C779%20hrs%2038%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -76,11 +73,12 @@ HCL                      1 repo              ███████████�
  Last Updated on 15/12/2023 08:53:23 UTC
 <!--END_SECTION:waka-->
 
-[website]: https://adityacprtm.dev
-[blog]: https://adityacprtm.dev/blog
-[twitter]: https://twitter.com/adityacprtm
-[steam]: https://steamcommunity.com/id/adityacprtm
-[instagram]: https://instagram.com/adityacprtm
-[linkedin]: https://linkedin.com/in/adityacprtm
-[facebook]: https://www.facebook.com/adityacprtm
-[github]: https://github.com/Adityacprtm
+</details>
+
+[website]: https://istvanv.dev
+[X]: https://x.com/IstvanVarga0
+[steam]: https://steamcommunity.com/id/steevewars
+[instagram]: https://instagram.com/istvancsvarga
+[linkedin]: https://linkedin.com/in/istvan-csaba-varga
+[facebook]: https://www.facebook.com/istvancsabavarga0
+[github]: https://github.com/IstvanCsVarga
