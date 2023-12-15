@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently working as a **DevOps Engineer**
 - 👨‍💻 All of my projects are available at **[here][github]** or **[istvanv.dev][website]**
-- 📫 How to reach me **istvanv@istvanv.dev**
+- 📫 How to reach me **istvan@istvanv.dev**
 - ⚡ Fun fact **keyboard enthusiast** 💘
 
 
