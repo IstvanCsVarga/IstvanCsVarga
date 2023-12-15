@@ -42,7 +42,7 @@
 <details>
   <summary> :zap: Expand me</summary>
 
-![IstvanCsVarga's github stats](https://github-readme-stats-red-six-71.vercel.app/api?username=istvancsvarga&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
+![IstvanCsVarga's github stats](https://github-readme-stats-istvan-csaba-vargas-projects.vercel.app/api?username=istvancsvarga&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
 
 
 <!--START_SECTION:waka-->
