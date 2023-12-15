@@ -77,7 +77,7 @@ HCL                      1 repo              ███████████�
 
 [website]: https://istvanv.dev
 [X]: https://x.com/IstvanVarga0
-[steam]: https://steamcommunity.com/id/steevewars
+[steam]: https://steamcommunity.com/id/shutokun
 [instagram]: https://instagram.com/istvancsvarga
 [linkedin]: https://linkedin.com/in/istvan-csaba-varga
 [facebook]: https://www.facebook.com/istvancsabavarga0
