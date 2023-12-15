@@ -1,14 +1,14 @@
 # Hi there, I'm Istvan! 👋
 
 - 🌱 I’m currently working as a **DevOps Engineer**
-- 👨‍💻 All of my projects are available at **[here][github]** or **[istvanv.dev][website]**
-- 📫 How to reach me **istvan@istvanv.dev**
-- ⚡ Fun fact **keyboard enthusiast** 💘
+- 👨‍💻 All of my projects are available here **[here][github]** or at **[istvanv.dev][website]**
+- 📫 Reach out to me via email: **istvan@istvanv.dev**
+- ⚡ Fun fact: **keyboard enthusiast** ⌨️💘
 
 
 <a href="https://app.daily.dev/istvancsabavarga"><img src="https://github.com/IstvanCsVarga/IstvanCsVarga/blob/main/devcard.svg" width="400" alt="Istvan Csaba Varga's Dev Card"/></a>
 
-## 😎 Connect with me
+## 📨 Connect with me
 
 [![Website](https://img.shields.io/website?label=istvanv.dev&style=for-the-badge&url=https%3A%2F%2Fistvanv.dev)][website]
 [![X](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][X]
