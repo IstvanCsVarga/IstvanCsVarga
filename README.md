@@ -52,7 +52,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 24.5 kB Used in GitHub's Storage 
+> 📦 24.8 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2024
  > 
@@ -87,13 +87,13 @@ Sunday                   8 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Markdown** 
@@ -107,7 +107,7 @@ HCL                      1 repo              ████████░░░�
 
 
 
- Last Updated on 01/01/2024 17:04:16 UTC
+ Last Updated on 02/01/2024 17:04:20 UTC
 <!--END_SECTION:waka-->
 
 </details>
