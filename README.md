@@ -87,13 +87,13 @@ Sunday                   8 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Markdown** 
@@ -107,7 +107,7 @@ HCL                      1 repo              ████████░░░�
 
 
 
- Last Updated on 15/01/2024 17:07:23 UTC
+ Last Updated on 16/01/2024 17:04:20 UTC
 <!--END_SECTION:waka-->
 
 </details>
