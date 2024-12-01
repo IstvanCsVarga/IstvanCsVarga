@@ -46,13 +46,11 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-403%20hrs%2044%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-376.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 62.5 kB Used in GitHub's Storage 
+> 📦 62.8 kB Used in GitHub's Storage 
  > 
 > 🏆 1,663 Contributions in the Year 2024
  > 
@@ -113,7 +111,7 @@ HCL                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 30/11/2024 17:04:32 UTC
+ Last Updated on 01/12/2024 17:04:42 UTC
 <!--END_SECTION:waka-->
 
 </details>
