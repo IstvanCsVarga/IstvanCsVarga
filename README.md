@@ -52,9 +52,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 66.0 kB Used in GitHub's Storage 
+> 📦 66.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,663 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -109,7 +109,7 @@ HCL                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 31/12/2024 17:04:29 UTC
+ Last Updated on 01/01/2025 17:04:31 UTC
 <!--END_SECTION:waka-->
 
 </details>
