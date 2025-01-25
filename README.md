@@ -52,7 +52,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 70.6 kB Used in GitHub's Storage 
+> 📦 70.7 kB Used in GitHub's Storage 
  > 
 > 🏆 10 Contributions in the Year 2025
  > 
@@ -87,13 +87,15 @@ Sunday                   19 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      0 secs              █████████████████████░░░░   83.02 % 
+Python                   0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +111,7 @@ Markdown                 1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 24/01/2025 17:04:33 UTC
+ Last Updated on 25/01/2025 17:04:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
