@@ -46,6 +46,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-412%20hrs%2032%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-390.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -85,14 +87,13 @@ Sunday                   19 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     23 mins             ███████████████████████░░   90.71 % 
-Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,7 +109,7 @@ Markdown                 1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 15/02/2025 17:04:19 UTC
+ Last Updated on 16/02/2025 17:04:47 UTC
 <!--END_SECTION:waka-->
 
 </details>
