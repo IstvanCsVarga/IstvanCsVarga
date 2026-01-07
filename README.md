@@ -54,7 +54,7 @@
 
 > 📦 74.1 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 3 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,13 +87,15 @@ Sunday                   20 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 mins              ██████████████░░░░░░░░░░░   55.89 % 
+Kotlin                   2 mins              ██████████░░░░░░░░░░░░░░░   40.30 % 
+Docker                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +111,7 @@ Markdown                 1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 06/01/2026 17:08:24 UTC
+ Last Updated on 07/01/2026 17:09:10 UTC
 <!--END_SECTION:waka-->
 
 </details>
