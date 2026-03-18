@@ -6,7 +6,7 @@
 - ⚡ Fun fact: **keyboard enthusiast** ⌨️💘
 
 
-<a href="https://app.daily.dev/istvancsabavarga"><img src="https://github.com/IstvanCsVarga/IstvanCsVarga/blob/main/devcard.png" width="400" alt="Istvan Csaba Varga's Dev Card"/></a>
+<a href="https://app.daily.dev/istvancsabavarga"><img src="https://api.daily.dev/devcards/v2/jfRIhTiSlqm8FqLny5ySD.png?type=default&r=hfs" width="356" alt="Istvan Csaba Varga's Dev Card"/></a>
 
 ## 📨 Connect with me
 
