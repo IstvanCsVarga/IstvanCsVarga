@@ -8,7 +8,7 @@
 
 <a href="https://app.daily.dev/istvancsabavarga"><img src="https://api.daily.dev/devcards/v2/jfRIhTiSlqm8FqLny5ySD.png?type=default&r=lg4" width="356" alt="Istvan Csaba Varga's Dev Card"/></a>
 
-[![DevStats](https://devstats.app/?username=skarlso&theme=light)](https://github.com/Skarlso/devstats)
+[![DevStats](https://devstats.app/?username=skarlso&theme=light)](https://github.com/IstvanCsVarga/devstats)
 
 ## 📨 Connect with me
 
