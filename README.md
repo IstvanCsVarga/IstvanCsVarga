@@ -48,9 +48,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C207%20hrs%2021%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-626.91%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-627.07%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -67,21 +65,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                205 commits         ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-🌆 Daytime                472 commits         ██████████████░░░░░░░░░░░   56.39 % 
-🌃 Evening                148 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+🌞 Morning                205 commits         ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+🌆 Daytime                474 commits         ██████████████░░░░░░░░░░░   56.36 % 
+🌃 Evening                148 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   232 commits         ███████░░░░░░░░░░░░░░░░░░   27.72 % 
-Tuesday                  51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Wednesday                215 commits         ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
-Thursday                 53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-Friday                   113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Saturday                 129 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Sunday                   44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Monday                   234 commits         ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+Tuesday                  53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Wednesday                215 commits         ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
+Thursday                 53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Friday                   113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Saturday                 129 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Sunday                   44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 ```
 
 
@@ -89,19 +87,19 @@ Sunday                   44 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 13 hrs 25 mins      ███████████░░░░░░░░░░░░░░   45.13 % 
-Other                    3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-YAML                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-Go                       2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-Text                     1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Markdown                 9 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   34.07 % 
+Go                       4 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Other                    3 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+YAML                     2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Groovy                   2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 41 mins      █████████████░░░░░░░░░░░░   52.77 % 
-Claude Code              13 hrs 58 mins      ████████████░░░░░░░░░░░░░   46.94 % 
-Codex CLI                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Claude Code              17 hrs 30 mins      ████████████████░░░░░░░░░   65.13 % 
+VS Code                  9 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   34.56 % 
+Codex CLI                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Mac                      29 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -117,7 +115,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 18:13:42 UTC
+ Last Updated on 24/07/2026 18:18:49 UTC
 <!--END_SECTION:waka-->
 
 </details>
