@@ -52,7 +52,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-520%20hrs%2014%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-659.67%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-659.89%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -69,21 +69,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                220 commits         ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-🌆 Daytime                481 commits         █████████████░░░░░░░░░░░░   52.45 % 
-🌃 Evening                211 commits         ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-🌙 Night                  5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+🌞 Morning                220 commits         ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+🌆 Daytime                481 commits         █████████████░░░░░░░░░░░░   52.28 % 
+🌃 Evening                211 commits         ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   235 commits         ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-Tuesday                  62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Wednesday                188 commits         █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-Thursday                 74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Friday                   164 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Saturday                 146 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Sunday                   48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Monday                   238 commits         ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
+Tuesday                  62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Wednesday                188 commits         █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+Thursday                 74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Friday                   164 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Saturday                 146 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Sunday                   48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 ```
 
 
@@ -91,34 +91,37 @@ Sunday                   48 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Docker                   4 mins              █████████████████████████   100.00 % 
+Other                    31 mins             ██████████████████████░░░   86.76 % 
+Docker                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
 
 🔥 Editors: 
-Claude Code              4 mins              █████████████████████████   100.00 % 
+Claude Code              36 mins             █████████████████████████   99.30 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+Mac                      36 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (100.0%)
+⏱ AI Coding Time: 36 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,039,381 Input Tokens, 14,589 Output Tokens
+🔤 1,090,906 Input Tokens, 29,415 Output Tokens
 
-💵 $11.81 Estimated AI Cost This Week
+💵 $14.19 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 3 AI Sessions, 3 AI Prompts
 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 96 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 145 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -135,7 +138,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 20:47:09 UTC
+ Last Updated on 15/09/2026 20:03:03 UTC
 <!--END_SECTION:waka-->
 
 </details>
